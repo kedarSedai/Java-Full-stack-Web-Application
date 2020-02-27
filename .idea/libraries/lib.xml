@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.servlet_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.annotation_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.jms_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.servlet.jsp_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.transaction_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.persistence_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.ejb_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sample_war_exploded/WEB-INF/lib/javax.resource_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
